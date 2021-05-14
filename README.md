@@ -23,7 +23,7 @@ Task completed. Output present in ./output/domain/facebook.com/
 ## Installation
 
 ```
-$ git clone https://github.com/streaak/pastebin-scraper.git
+$ git clone https://github.com/CrazyCoder009/Pastebin-Scraper.git
 $ cd pastebin-scraper
 $ sudo chmod +x ./scrape.sh
 $ sudo apt-get install jq
